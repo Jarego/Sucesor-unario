@@ -1,0 +1,26 @@
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.exe.config
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.exe
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.pdb
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.xml
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.vbprojAssemblyReference.cache
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor_Unario.Form1.resources
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor_Unario.Resources.resources
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.vbproj.GenerateResource.cache
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.vbproj.CoreCompileInputs.cache
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.exe
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.xml
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.pdb
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor_Unario.Form2.resources
+C:\Users\Jarego\source\repos\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor_Unario.Form3.resources
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.vbprojAssemblyReference.cache
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor_Unario.Form2.resources
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor_Unario.Resources.resources
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.vbproj.GenerateResource.cache
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.vbproj.CoreCompileInputs.cache
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.exe
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.xml
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\obj\Debug\Sucesor Unario.pdb
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.exe.config
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.exe
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.pdb
+C:\Users\Jarego\Desktop\Sucesor Unario\Sucesor Unario\bin\Debug\Sucesor Unario.xml
